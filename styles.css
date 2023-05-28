@@ -1,0 +1,117 @@
+#img-div > #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto
+  }
+
+  body {
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+   padding-bottom: 20px;
+   max-width: 100%;
+  }
+
+  img {
+    width: 990px
+  }
+
+  main {
+    background-color: rgba(173, 171, 171, 0.179);
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 30px;
+    color: rgba(36, 32, 32, 0.927);
+    display: block;
+    max-width: 100%;
+
+  }
+
+  h1 {
+    font-size: 3.2em;
+    margin-bottom: -5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+ #title > p {
+    padding-top: 13px;
+  }
+
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(56, 55, 55, 0.807);
+  }
+
+  h1, p {
+    display: block;
+    text-align: center;
+  }
+
+  #img-div {
+    background-color: white;
+    padding: 10px;
+  }
+
+  #img-div > p {
+    margin-bottom: 0;
+  }
+
+  h2 {
+    display: block;
+    text-align: center;
+    max-width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.2em;
+    padding: 30px 0;
+  }
+
+  #tribute-info > #time-line{
+    max-width: 50%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  li {
+    max-width: 100%;
+    line-height: 1.55;
+    margin: 15px auto;
+    width: 570px;
+    font-size: 1.em;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  }
+
+ #tribute-info > .text {
+    width: 570px;
+    margin: 50px auto -35px;
+    text-align: left;
+    line-height: 1.55;
+    font-style: italic;
+    font-size: 0.93em;
+    padding-top: 15px;
+    max-width: 100%;
+
+  }
+
+  #tribute-info > .signature {
+    width: 570px;
+    margin: 50px auto 0;
+    text-align: left;
+    line-height: 1.55;
+    font-style: italic;
+    padding-bottom: 15px;
+    font-size: 0.93em;
+    max-width: 100%;
+  }
+
+  #tribute-info > .tribute {
+    width: 850px;
+    margin: 50px auto 0;
+    text-align: center;
+    line-height: 1.55;
+    font-weight: 800;
+    color: rgba(36, 32, 32, 0.927);
+    max-width: 100%;
+    padding-bottom: 15px;
+
+  }
+
+  
