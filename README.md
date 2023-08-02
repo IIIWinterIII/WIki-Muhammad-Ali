@@ -1,4 +1,4 @@
-Muhammad Ali is the greatest boxer of all time.
+# Muhammad Ali is the greatest boxer of all time.
 
 Welcome to the project dedicated to the legendary Muhamed Ali - the greatest boxer of all time! This is one of my first projects, created with the purpose of learning about the world of web development and sharing my respect for this outstanding athlete.
 
